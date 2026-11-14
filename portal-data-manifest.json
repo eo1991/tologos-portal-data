@@ -1,6 +1,6 @@
 {
  "version": 1,
- "sha256": "cbeea4a3dbfdc7329ef60802ec2acc71be4b69f085bc0fc716a330a484138fc0",
+ "sha256": "76b9b27ddfa78c6c06a3495273ef0bb1fb5b21ef2f9c7029ed942da1e1018254",
  "bytes": 16691228,
  "parts": [
   "portal-data.part0.json",
@@ -10,5 +10,5 @@
   "portal-data.part4.json",
   "portal-data.part5.json"
  ],
- "updatedAt": "2026-11-14T16:47:54.891Z"
+ "updatedAt": "2026-11-14T16:59:51.539Z"
 }
