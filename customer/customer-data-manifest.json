@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "sha256": "e3f21ed7c97370386e711d5a62c473f1e1d09175e8c6361eaf4f62e48ac1c1f5",
+  "sha256": "9d537d68823c9ba98bf2f9cfe020da4adaea0388c8812e6cbc5181244bd49984",
   "bytes": 2679939,
   "parts": [
     "customer-data.part0.json"
   ],
-  "updatedAt": "2026-11-17T14:21:23.330Z"
+  "updatedAt": "2026-11-17T14:22:32.893Z"
 }
